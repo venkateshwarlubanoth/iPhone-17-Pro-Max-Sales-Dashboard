@@ -1,2 +1,3 @@
-# iPhone-17-Pro-Max-Sales-Dashboard
-iPhone 17 Pro Max Sales Analysis Dashboard using Power BI
+## Dashboard Preview
+
+![iPhone 17 Pro Max Sales Dashboard](iPhone_17_Pro_Max_Dashboard.png)
